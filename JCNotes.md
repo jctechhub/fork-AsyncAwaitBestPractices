@@ -15,3 +15,9 @@ Note: the use of '.ConfigureAwait(false);', is to make sure that the background 
 
 <img width="1045" alt="image" src="https://github.com/jctechhub/fork-AsyncAwaitBestPractices/assets/24492674/2f3044a9-1ee4-4e61-95ca-c3608285421f">
 
+
+# ValueTask
+
+Use it when 9/10 calls are just returning results without call await function. 
+
+<img width="865" alt="image" src="https://github.com/jctechhub/fork-AsyncAwaitBestPractices/assets/24492674/32f81b99-d4ef-4bec-aba1-f4ece4adbf20">
