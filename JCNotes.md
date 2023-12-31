@@ -1,2 +1,9 @@
 # FrozenSet
-<img width="907" alt="image" src="https://github.com/jctechhub/fork-AsyncAwaitBestPractices/assets/24492674/26d4cf00-df95-43ed-8485-dfaaa89354d5">
+
+Good for API response, new in .NET 8.
+<img width="801" alt="image" src="https://github.com/jctechhub/fork-AsyncAwaitBestPractices/assets/24492674/32a6c314-8456-45db-9b96-78a5c99556c8">
+
+
+# Pattern: Multiple async calls
+<img width="1045" alt="image" src="https://github.com/jctechhub/fork-AsyncAwaitBestPractices/assets/24492674/2f3044a9-1ee4-4e61-95ca-c3608285421f">
+
