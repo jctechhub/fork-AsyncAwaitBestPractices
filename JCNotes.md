@@ -10,5 +10,8 @@ use of the following keywords:
 - await foreach
 - IAsyncEnumerable<StoryModel>
 - Task.WhenAny
+
+Note: the use of '.ConfigureAwait(false);', is to make sure that the background thread doesn't lock up main thread.     
+
 <img width="1045" alt="image" src="https://github.com/jctechhub/fork-AsyncAwaitBestPractices/assets/24492674/2f3044a9-1ee4-4e61-95ca-c3608285421f">
 
